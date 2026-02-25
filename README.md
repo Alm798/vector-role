@@ -50,6 +50,6 @@ MIT
 
 # Author Information
 
-Ivan Shkutov
+Alm7988
 
 ------------
